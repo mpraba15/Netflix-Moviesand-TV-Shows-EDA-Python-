@@ -6,13 +6,13 @@ This project explores the Netflix Movies and TV Shows dataset using Exploratory 
 The goal of this analysis is to:
 
 Understand the structure of the dataset.
+
 Identify trends in Netflix content.
+
 Visualize insights using Python libraries such as Matplotlib and Seaborn.
 
 
 USAGE
-This notebook can be used to:
-
 Perform data cleaning (handling missing values, correcting data types, etc.).
 Conduct basic exploratory analysis using Pandas functions like head(), describe(), and info().
 Generate visualizations (bar charts, histograms, etc.) to understand content distribution.
@@ -20,8 +20,6 @@ Identify trends such as the most popular genres, the number of titles added per 
 
 
 CONTRIBUTION
-To contribute to this project, you can:
-
 Improve Data Cleaning: Identify and handle missing values more effectively.
 Enhance Visualizations: Create more interactive and detailed plots.
 Perform Advanced Analysis: Apply machine learning techniques to predict popular genres or analyze user ratings (if available).
